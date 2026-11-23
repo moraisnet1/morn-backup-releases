@@ -1,8 +1,19 @@
 {
   "formato": 1,
   "canal": "stable",
-  "serie": 11,
+  "serie": 12,
   "versoes": [
+    {
+      "versao": "2.5.2",
+      "url": "https://github.com/moraisnet1/claude-backup-releases/releases/download/v2.5.2/MornBackup_v2.5.2.exe",
+      "sha256": "619231730b51c8d677f3ebbb2981f710c0df5852bf9b571f81e2970a4130235a",
+      "tamanho": 101065216,
+      "versaoMinima": null,
+      "notas": "Corrige o painel que abria mas nao respondia a cliques (erro de sintaxe na tela).",
+      "publicadaEm": "2026-11-23T17:48:47.400Z",
+      "percentual": 100,
+      "bloqueada": false
+    },
     {
       "versao": "2.5.1",
       "url": "https://github.com/moraisnet1/claude-backup-releases/releases/download/v2.5.1/MornBackup_v2.5.1.exe",
