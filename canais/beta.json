@@ -1,8 +1,19 @@
 {
   "formato": 1,
   "canal": "beta",
-  "serie": 12,
+  "serie": 13,
   "versoes": [
+    {
+      "versao": "2.5.3",
+      "url": "https://github.com/moraisnet1/claude-backup-releases/releases/download/v2.5.3/MornBackup_v2.5.3.exe",
+      "sha256": "47693f4c96a1e40c5ffe226693426afd70fe654a4d838abcdfdab53efacd926a",
+      "tamanho": 101065216,
+      "versaoMinima": null,
+      "notas": "Corrige o icone da bandeja que nao aparecia ao iniciar com o Windows.",
+      "publicadaEm": "2026-11-23T18:05:14.895Z",
+      "percentual": 100,
+      "bloqueada": false
+    },
     {
       "versao": "2.5.2",
       "url": "https://github.com/moraisnet1/claude-backup-releases/releases/download/v2.5.2/MornBackup_v2.5.2.exe",
